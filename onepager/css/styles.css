@@ -1,0 +1,38 @@
+body {
+	font-family: "helvetica neue ",arial, sans-serif;
+	font-size: 1rem;
+	word-wrap: break-word;
+	overflow-wrap: break-word;  
+}
+h1,h2,h3 {
+	margin: 0;
+	padding: 0;
+}
+p {
+	color: #000
+}
+img {
+	display: block;
+	width: 100%;
+}
+a {
+	text-decoration: underline;
+}
+address {	
+	font-style: normal;
+}
+.clear {
+	overflow: auto;
+}
+.content {
+	/*top right bottom left*/
+	margin: 0 25px 0 25px; 
+/*top/bottom right/left*/
+}
+.container p {
+	color: #000;
+	font-size: 14px
+}
+.container h2 {
+	color: #000;
+}
